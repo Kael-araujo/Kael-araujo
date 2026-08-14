@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER PRINCIPAL (Gatinho em Flores de Cerejeira) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkZGE1NmE3NmI2ZWMxYjU2YTYyM2U5YzRhNmU1N2IzMDNmNTg1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Cherry Blossom Cats Banner" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkZGE1NmE3NmI2ZWMxYjU2YTYyM2U5YzRhNmU1N2IzMDNmNTg1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="50%" alt="Cherry Blossom Cats Banner" style="border-radius: 15px;" />
 
   <br/><br/>
 
@@ -15,11 +15,11 @@
 
   <!-- BADGES DE STATUS / GITHUB -->
   <p align="center">
-    <a href="https://github.com/[SEU_USUARIO_GITHUB]">
-      <img src="https://img.shields.io/github/stars/[SEU_USUARIO_GITHUB]?style=for-the-badge&color=ffb7c5&logo=github&logoColor=white" alt="Stars" />
+    <a href="https://github.com/Kael-araujo">
+      <img src="https://img.shields.io/github/stars/Kael-araujo?style=for-the-badge&color=ffb7c5&logo=github&logoColor=white" alt="Stars" />
     </a>
-    <a href="https://github.com/[SEU_USUARIO_GITHUB]">
-      <img src="https://img.shields.io/github/followers/[SEU_USUARIO_GITHUB]?style=for-the-badge&color=ffc0cb&logo=github&logoColor=white" alt="Followers" />
+    <a href="https://github.com/Kael-araujo">
+      <img src="https://img.shields.io/github/followers/Kael-araujo?style=for-the-badge&color=ffc0cb&logo=github&logoColor=white" alt="Followers" />
     </a>
     <a href="https://github.com/[SEU_USUARIO_GITHUB]">
       <img src="https://img.shields.io/badge/STATUS-CODING_WITH_CATS-ffccd5?style=for-the-badge" alt="Status" />

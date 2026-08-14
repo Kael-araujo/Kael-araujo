@@ -1,28 +1,28 @@
 <div align="center">
 
-  <!-- BANNER PRINCIPAL (Gatinho em Flores de Cerejeira) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkZGE1NmE3NmI2ZWMxYjU2YTYyM2U5YzRhNmU1N2IzMDNmNTg1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="50%" alt="Cherry Blossom Cats Banner" style="border-radius: 15px;" />
+  <!-- BANNER PRINCIPAL: Noite Estrelada com Flores de Cerejeira -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZwOW9wM2NuMHVtbHAxMGJjMGs1dTBkdTJpOXJieDZzcHdzdHM3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aEqhXX8g7J2D0QuhxI/giphy.gif" width="50%" alt="Starry Night Sakura Banner" style="border-radius: 12px;" />
 
   <br/><br/>
 
-  <!-- NOME E TÍTULO PERSONALIZADOS -->
-  <h1>🌸 KAEL ARAUJO 🌸</h1>
-  <p><i>Estudante de Ciência da Computação 🎓 | Desenvolvedor em Construção 💻</i></p>
+  <!-- NOME E TÍTULO -->
+  <h1> KAEL ARAUJO </h1>
+  <p><i>Computer Science Student 🎓 | Software & Web Developer 💻</i></p>
 
-  <p><i>“Soft code, warm tea, and no bugs in sight.”</i> 🐾✨</p>
+  <p><i>“Reaching for the stars, one line of code at a time.”</i> 🌌✨</p>
   
   <br/>
 
   <!-- BADGES DE STATUS / GITHUB -->
   <p align="center">
-    <a href="https://github.com/Kael-araujo">
-      <img src="https://img.shields.io/github/stars/Kael-araujo?style=for-the-badge&color=ffb7c5&logo=github&logoColor=white" alt="Stars" />
-    </a>
-    <a href="https://github.com/Kael-araujo">
-      <img src="https://img.shields.io/github/followers/Kael-araujo?style=for-the-badge&color=ffc0cb&logo=github&logoColor=white" alt="Followers" />
+    <a href="https://github.com/[SEU_USUARIO_GITHUB]">
+      <img src="https://img.shields.io/github/stars/[SEU_USUARIO_GITHUB]?style=for-the-badge&color=2b2d42&logo=github&logoColor=white" alt="Stars" />
     </a>
     <a href="https://github.com/[SEU_USUARIO_GITHUB]">
-      <img src="https://img.shields.io/badge/STATUS-CODING_WITH_CATS-ffccd5?style=for-the-badge" alt="Status" />
+      <img src="https://img.shields.io/github/followers/[SEU_USUARIO_GITHUB]?style=for-the-badge&color=3d5a80&logo=github&logoColor=white" alt="Followers" />
+    </a>
+    <a href="https://github.com/[SEU_USUARIO_GITHUB]">
+      <img src="https://img.shields.io/badge/STATUS-CODING_UNDER_THE_STARS-98c1d9?style=for-the-badge&logoColor=black" alt="Status" />
     </a>
   </p>
 
@@ -30,27 +30,27 @@
 
 <hr />
 
-<!-- 🌸 SEÇÃO 1: SOBRE MIM -->
-<h2 align="center">🐾 Know About Me</h2>
+<!-- ✨ SEÇÃO 1: SOBRE MIM -->
+<h2 align="center">🌌 Know About Me</h2>
 
 <table>
   <tr>
     <td width="35%" align="center">
-      <!-- GIF 1: Gatinho fofo relaxando -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN6eHk1cnBzeThneTJpdWg3OG9idThxbXBhZHJ2OXEyaHpmbzJ4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/111ebonMs90YLu/giphy.gif" width="100%" alt="Cute Cat GIF" style="border-radius: 15px;" />
+      <!-- GIF 1: Céu Estrelado / Estética Sakura -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF4dzd0dmhpZ3lrbHpkOXFrNXEyOGJvMGVlMGV2c3ZhZnhjOHphNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6a1DCcfAS6H1Qu1wXf/giphy.gif" style="border-radius: 10px;" />
     </td>
     <td width="65%">
-      <h3>Hello, World! Eu sou o Kael! 👋✨</h3>
+      <h3>Greetings! Eu sou o Kael! 👋✨</h3>
       <p>
-        Atualmente cursando <b>Ciência da Computação</b> e me aprofundando no universo da programação. Acredito que um bom código é como uma caminhada sob as flores de cerejeira: precisa ser limpo, estruturado e trazer harmonia.
+        Graduando em <b>Ciência da Computação</b>, fascinado por resolução de problemas, arquitetura de código e criação de sistemas eficientes.
       </p>
       <p>
-        Sempre buscando aprender novas linguagens e aprimorar minhas habilidades em desenvolvimento de sistemas e Web.
+        Estou constantemente expandindo meus conhecimentos na área de desenvolvimento, evoluindo minhas habilidades desde a base da computação até a criação de interfaces modernas.
       </p>
       <ul>
-        <li>🌱 <b>Foco Atual:</b> Fundamentos da programação em C, interatividade com JavaScript e construção visual com HTML & CSS.</li>
-        <li>🌸 <b>Filosofia:</b> <i>"Keep it simple, clean, and cute."</i></li>
-        <li>💡 <b>Interesses:</b> Ciência da computação, lógica de programação, desenvolvimento Web e gatos! 🐱</li>
+        <li>🌱 <b>Foco Atual:</b> Fundamentos em C, Java, lógica com JavaScript, e estilização Web com HTML5 & CSS3.</li>
+        <li>✨ <b>Filosofia:</b> <i>"Simplicity is the prerequisite for reliability."</i></li>
+        <li>💡 <b>Interesses:</b> Algoritmos, estrutura de dados, desenvolvimento Web e astronomia/estética espacial.</li>
       </ul>
     </td>
   </tr>
@@ -59,7 +59,7 @@
 <hr />
 
 <!-- 🚀 SEÇÃO 2: TOP PROJECTS -->
-<h2 align="center">🌸 Featured Projects</h2>
+<h2 align="center">⭐ Featured Projects</h2>
 
 <table>
   <tr>
@@ -67,23 +67,23 @@
       <ul>
         <li>
           <b>⚙️ <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME-DO-PROJETO-1]">Projetos em C / Algoritmos</a></b><br/>
-          <i>Exercícios, estruturas de dados e lógica desenvolvidos na graduação usando a linguagem C.</i>
+          <i>Implementações de estruturas de dados, algoritmos de ordenação e conceitos fundamentais da computação.</i>
         </li>
         <br/>
         <li>
           <b>⚡ <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME-DO-PROJETO-2]">Lógica & Interatividade com JavaScript</a></b><br/>
-          <i>Scripts, pequenos utilitários e automações utilizando JavaScript.</i>
+          <i>Aplicações dinâmicas, manipulação de eventos e scripts focados no ecossistema JS.</i>
         </li>
         <br/>
         <li>
-          <b>🎨 <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME-DO-PROJETO-3]">Páginas Web (HTML & CSS)</a></b><br/>
-          <i>Projetos práticos de interfaces e sites estruturados em HTML e estilizados com CSS.</i>
+          <b>🎨 <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME-DO-PROJETO-3]">Web Development (HTML & CSS)</a></b><br/>
+          <i>Páginas web responsivas, layouts estilizados e interfaces focadas em usabilidade.</i>
         </li>
       </ul>
     </td>
     <td width="35%" align="center">
-      <!-- GIF 2: Flores de cerejeira -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhua3ZsbGs1ZHFwZmtyZHdpd3k1cm14eTFmODU1aHlycnRtZmdjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lq0h93752f6J9tijrh/giphy.gif" width="100%" alt="Sakura Aesthetics" style="border-radius: 15px;" />
+      <!-- GIF 2: Estrelas caindo / Galáxia -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHM1NXRlamUxbWczMHk1MHF6czdxaTBhZTBnYWlmbGRncGpkdms0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ovmx6x4RQ8aC4zeAPH/giphy.gif" width="100%" alt="Night Sky Stars" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -91,12 +91,12 @@
 <hr />
 
 <!-- 🤝 SEÇÃO 3: REDES SOCIAIS -->
-<h2 align="center">💌 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
-  <!-- LINKS SOCIAIS PERSONALIZÁVEIS -->
+  <!-- LINKS SOCIAIS -->
   <a href="https://github.com/[SEU_USUARIO_GITHUB]">
-    <img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/[SEU_LINKEDIN]">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://[SEU_PORTFOLIO].com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ffb7c5?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-2b2d42?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -113,16 +113,16 @@
 
 <blockquote>
   <p align="center">
-    <i>"Like cherry blossoms in spring, code blooms best when nurtured with patience and care."</i> 🌸🐱
+    <i>"The stars are not afraid to appear like fireflies. The code is not afraid to bloom."</i> 🌌
   </p>
 </blockquote>
 
 <hr />
 
 <!-- 🛡️ SEÇÃO 4: TECH STACK -->
-<h2 align="center">🎀 Weaponry & Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
-<p align="center"> Tecnologias e ferramentas que estou aprendendo e utilizando no meu arsenal: </p>
+<p align="center"> Linguagens e tecnologias no meu radar de estudos: </p>
 
 <div align="center">
   <table>
@@ -131,33 +131,33 @@
       <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/C-ffb7c5?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
+        <img src="https://img.shields.io/badge/C-2b2d42?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
         <br/>
-        <p><b>Linguagem Principal</b><br/><i>Lógica, estruturas de dados e ponteiros.</i></p>
+        <p><b>Linguagem Principal</b><br/><i>Lógica, performance e fundamentos.</i></p>
       </td>
       <!-- JAVASCRIPT -->
       <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/JavaScript-ffccd5?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge" />
         <br/>
-        <p><b>Lógica Web</b><br/><i>Interatividade e funções dinâmicas.</i></p>
+        <p><b>Lógica Web</b><br/><i>Interatividade e dinamismo.</i></p>
       </td>
       <!-- HTML5 -->
       <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/HTML5-ffb3ba?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
         <br/>
-        <p><b>Estruturação</b><br/><i>Aprendendo marcação e elementos Web.</i></p>
+        <p><b>Estrutura</b><br/><i>Marcação e semântica web.</i></p>
       </td>
       <!-- CSS3 -->
       <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/CSS3-ffc0cb?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
         <br/>
-        <p><b>Estilização</b><br/><i>Aprendendo design, layout e cores.</i></p>
+        <p><b>Estilização</b><br/><i>Design, layout e responsividade.</i></p>
       </td>
     </tr>
   </table>
@@ -166,5 +166,5 @@
 <br/><hr />
 
 <div align="center">
-  <sub><i>In a world full of algorithms, be sweet. 🌸🐾</i></sub>
+  <sub><i>Among billions of stars, keep coding your universe. ✨🌌</i></sub>
 </div>

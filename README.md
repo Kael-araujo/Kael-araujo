@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER PRINCIPAL: Noite Estrelada com Flores de Cerejeira -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZwOW9wM2NuMHVtbHAxMGJjMGs1dTBkdTJpOXJieDZzcHdzdHM3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aEqhXX8g7J2D0QuhxI/giphy.gif" width="50%" alt="Starry Night Sakura Banner" style="border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhkdzA4ODN5Y2wwOWhhbzU3bGZ0NjF6ZWx4Ym83OXd0ZG05ZnhzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SxLe9d2V0RwGMbeyIT/giphy.gif" width="50%" alt="Starry Night Sakura Banner" style="border-radius: 12px;" />
 
   <br/><br/>
 
@@ -37,7 +37,7 @@
   <tr>
     <td width="35%" align="center">
       <!-- GIF 1: Céu Estrelado / Estética Sakura -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF4dzd0dmhpZ3lrbHpkOXFrNXEyOGJvMGVlMGV2c3ZhZnhjOHphNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6a1DCcfAS6H1Qu1wXf/giphy.gif" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhkdzA4ODN5Y2wwOWhhbzU3bGZ0NjF6ZWx4Ym83OXd0ZG05ZnhzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NNVWeKWyh2p026Or91/giphy.gif" style="border-radius: 10px;" />
     </td>
     <td width="65%">
       <h3>Greetings! Eu sou o Kael! 👋✨</h3>
@@ -83,7 +83,7 @@
     </td>
     <td width="35%" align="center">
       <!-- GIF 2: Estrelas caindo / Galáxia -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHM1NXRlamUxbWczMHk1MHF6czdxaTBhZTBnYWlmbGRncGpkdms0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ovmx6x4RQ8aC4zeAPH/giphy.gif" width="100%" alt="Night Sky Stars" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDlpZnJqaTlwYXdvbDYxZ3RxbDQya25ieWhueDl3NTR6aTRoZDBycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wv1RNuvWMjQ10bzExO/giphy.gif" width="100%" alt="Night Sky Stars" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>

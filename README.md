@@ -98,13 +98,13 @@
 
 <p align="center">
   <!-- LINKS SOCIAIS -->
-  <a href="https://github.com/[SEU_USUARIO_GITHUB]">
+  <a href="https://github.com/Kael-araujo">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/[SEU_LINKEDIN]">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[SEU_EMAIL@GMAIL.COM]">
+  <a href="mailto:kael.araaujo@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://[SEU_PORTFOLIO].com">

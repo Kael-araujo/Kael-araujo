@@ -19,10 +19,10 @@
   <!-- BADGES DE STATUS / GITHUB -->
   <p align="center">
     <a href="https://github.com/Kael-araujo">
-      <img src="https://img.shields.io/github/stars/[SEU_USUARIO_GITHUB]?style=for-the-badge&color=2b2d42&logo=github&logoColor=white" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Kael-araujo?style=for-the-badge&color=2b2d42&logo=github&logoColor=white" alt="Stars" />
     </a>
     <a href="https://github.com/Kael-araujo">
-      <img src="https://img.shields.io/github/followers/[SEU_USUARIO_GITHUB]?style=for-the-badge&color=3d5a80&logo=github&logoColor=white" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/Kael-araujo?style=for-the-badge&color=3d5a80&logo=github&logoColor=white" alt="Followers" />
     </a>
     <a href="https://github.com/Kael-araujo">
       <img src="https://img.shields.io/badge/STATUS-CODING_UNDER_THE_STARS-98c1d9?style=for-the-badge&logoColor=black" alt="Status" />

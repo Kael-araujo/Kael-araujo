@@ -18,7 +18,7 @@
 
   <!-- BADGES DE STATUS / GITHUB -->
   <p align="center">
-    <a href="https://github.com/[SEU_USUARIO_GITHUB]">
+    <a href="https://github.com/Kael-araujo">
       <img src="https://img.shields.io/github/stars/[SEU_USUARIO_GITHUB]?style=for-the-badge&color=2b2d42&logo=github&logoColor=white" alt="Stars" />
     </a>
     <a href="https://github.com/[SEU_USUARIO_GITHUB]">

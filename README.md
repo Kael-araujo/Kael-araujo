@@ -6,10 +6,13 @@
   <br/><br/>
 
   <!-- NOME E TÍTULO -->
-  <h1> KAEL ARAUJO </h1>
+  <h1> <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=KAEL+ARAUJO" alt="Typing SVG" />
+</a> </h1>
+  
   <p><i>Computer Science Student 🎓 | Software & Web Developer 💻</i></p>
 
-  <p><i>“Reaching for the stars, one line of code at a time.”</i> 🌌✨</p>
+  
   
   <br/>
 
@@ -113,7 +116,7 @@
 
 <blockquote>
   <p align="center">
-    <i>"The stars are not afraid to appear like fireflies. The code is not afraid to bloom."</i> 🌌
+  
   </p>
 </blockquote>
 

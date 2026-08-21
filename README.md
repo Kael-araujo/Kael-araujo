@@ -69,17 +69,17 @@
     <td width="65%">
       <ul>
         <li>
-          <b>⚙️ <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME-DO-PROJETO-1]">Projetos em C / Algoritmos</a></b><br/>
+          <b>⚙️ <a href="https://github.com/Kael-araujo/[NOME-DO-PROJETO-1]">Projetos em C / Algoritmos</a></b><br/>
           <i>Implementações de estruturas de dados, algoritmos de ordenação e conceitos fundamentais da computação.</i>
         </li>
         <br/>
         <li>
-          <b>⚡ <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME-DO-PROJETO-2]">Lógica & Interatividade com JavaScript</a></b><br/>
+          <b>⚡ <a href="https://github.com/Kael-araujo/[NOME-DO-PROJETO-2]">Lógica & Interatividade com JavaScript</a></b><br/>
           <i>Aplicações dinâmicas, manipulação de eventos e scripts focados no ecossistema JS.</i>
         </li>
         <br/>
         <li>
-          <b>🎨 <a href="https://github.com/[SEU_USUARIO_GITHUB]/[NOME-DO-PROJETO-3]">Web Development (HTML & CSS)</a></b><br/>
+          <b>🎨 <a href="https://github.com/Kael-araujo/[NOME-DO-PROJETO-3]">Web Development (HTML & CSS)</a></b><br/>
           <i>Páginas web responsivas, layouts estilizados e interfaces focadas em usabilidade.</i>
         </li>
       </ul>

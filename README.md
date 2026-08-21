@@ -7,7 +7,7 @@
 
   <!-- NOME E TÍTULO -->
   <h1> <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=KAEL+ARAUJO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0969da&center=true&vCenter=true&width=435&lines=KAEL+ARAUJO" alt="Typing SVG" />
 </a> </h1>
   
   <p><i>Computer Science Student 🎓 | Software & Web Developer 💻</i></p>

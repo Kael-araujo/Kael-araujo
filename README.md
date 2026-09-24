@@ -169,5 +169,5 @@
 <br/><hr />
 
 <div align="center">
-  <sub><i>Among billions of stars, keep coding your universe. ✨🌌</i></sub>
+  <sub><i</i></sub>
 </div>
